@@ -19,7 +19,7 @@ I also need to implement a on_text_update() method within the canvas class and r
 
 sample output:
 
-1  2  3  4  5  6  7  8  9  10    
+```1  2  3  4  5  6  7  8  9  10    
 |  |  |  |  |  |  |  |  |  |  0  
 |  |  |  |  |  |  |  |  |  |  0  
 |  |  |  |  |  |  |  |  |  |  0  
@@ -29,4 +29,4 @@ sample output:
 |  |  |  |  |  |  |  |  |  |  0  
 |  |  |  |  |  |  |  |  |  |  0  
 |  |  |  |  |  |  |  |  |  |  0  
-E  E  E  E  E  E  E  E  E  E  0
+E  E  E  E  E  E  E  E  E  E  0```
